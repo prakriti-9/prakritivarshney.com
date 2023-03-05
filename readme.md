@@ -1,6 +1,10 @@
 # Prakriti's Portfolio.
 
-This is my personal portfolio.
-I started coding a week ago.
-Lets see how far I go.
-Its a bit overwhelming but its exciting too.
+Welcome to my Portfolio.
+Its coming up soon when I learn HTML and CS5, by tomorrow.
+
+For now I know,
+1. Javascript
+2. NodeJS
+3. Repl.it
+4. CHALK
